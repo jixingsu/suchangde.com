@@ -1,6 +1,6 @@
 # Site settings
 title: 长德工作室
-SEOTitle: 十年成熟报考经验，助您选得心仪院校
+SEOTitle: 专业报考，助您圆梦
 header-img: img/post-bg-desk.jpg
 email: sushang.thubiology@gmail.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/jixingsu/suchangde.com.git" # you code reposito
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "专业报考"
-sidebar-avatar: /img/Su_Shang_255x187.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/zhiyuantianbao.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
